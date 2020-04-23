@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b88d096ce7f0f59d1cfb823139dea12b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b7edd3b2c96b2f87c9cab6fdc20b71e8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\35bf86223669ef8dc73c064c81d43cd9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1f01b1e0442345fe7e09871c6d7dcd3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cef6d96cd61014229d4fa5bce57a1aad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\83800ac4792da328ff7106c399f679af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8c8b451559bab3454429640fde3a0ab3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5050d457b24cf83c530c969ad4a323c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\77c9572e1ec8575413fec4ff935bb193\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d5577982f9c66b0f5c4f9fa6767b016c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f247c0dab6e987fe52b2efc5404ff01f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6d2d5e46c3decc322b4578e285921d0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\bfe6c21f1b783969d5fc7ce63319dc9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f5d2e357c5c57cd1dadd7f9d8cb90f11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\77a7644a3b5105fb280a952e0ec9ac85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\eca5f5625af487dec3a21049155f3bfd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f87eb5a79f37c0324f276959ee10b1d0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\83fb4b2aa1252c672bc3052756a8bc94\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b2e90bfed7e28efc648afa489d7b9637\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8149e9cf53309239437e7a219875057a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\66a6e551226eed823d478c14ee914d15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\dfbf4fcbd598eb512b666abec975c1c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\dd00e2c5d85fd95ed95175d698ad00fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\84ae5744e269d5360283802f5fed0437\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\78dd6616b718f230d4e0dd1209c71520\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e213c35cea40954288b2f2ac0883cb90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5035eaa9ae088e0db1f34b8ecd3eb6b3\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b7edd3b2c96b2f87c9cab6fdc20b71e8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b7edd3b2c96b2f87c9cab6fdc20b71e8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\eca5f5625af487dec3a21049155f3bfd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\eca5f5625af487dec3a21049155f3bfd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f87eb5a79f37c0324f276959ee10b1d0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f87eb5a79f37c0324f276959ee10b1d0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\eca5f5625af487dec3a21049155f3bfd\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:11:9-40
+activity#me.mahakagg.simpleasynctask.MainActivity
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b88d096ce7f0f59d1cfb823139dea12b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b88d096ce7f0f59d1cfb823139dea12b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b7edd3b2c96b2f87c9cab6fdc20b71e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b7edd3b2c96b2f87c9cab6fdc20b71e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\35bf86223669ef8dc73c064c81d43cd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\35bf86223669ef8dc73c064c81d43cd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1f01b1e0442345fe7e09871c6d7dcd3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1f01b1e0442345fe7e09871c6d7dcd3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cef6d96cd61014229d4fa5bce57a1aad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cef6d96cd61014229d4fa5bce57a1aad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\83800ac4792da328ff7106c399f679af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\83800ac4792da328ff7106c399f679af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8c8b451559bab3454429640fde3a0ab3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8c8b451559bab3454429640fde3a0ab3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5050d457b24cf83c530c969ad4a323c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5050d457b24cf83c530c969ad4a323c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\77c9572e1ec8575413fec4ff935bb193\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\77c9572e1ec8575413fec4ff935bb193\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d5577982f9c66b0f5c4f9fa6767b016c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d5577982f9c66b0f5c4f9fa6767b016c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f247c0dab6e987fe52b2efc5404ff01f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f247c0dab6e987fe52b2efc5404ff01f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6d2d5e46c3decc322b4578e285921d0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6d2d5e46c3decc322b4578e285921d0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\bfe6c21f1b783969d5fc7ce63319dc9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\bfe6c21f1b783969d5fc7ce63319dc9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f5d2e357c5c57cd1dadd7f9d8cb90f11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f5d2e357c5c57cd1dadd7f9d8cb90f11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\77a7644a3b5105fb280a952e0ec9ac85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\77a7644a3b5105fb280a952e0ec9ac85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\eca5f5625af487dec3a21049155f3bfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\eca5f5625af487dec3a21049155f3bfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f87eb5a79f37c0324f276959ee10b1d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f87eb5a79f37c0324f276959ee10b1d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\83fb4b2aa1252c672bc3052756a8bc94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\83fb4b2aa1252c672bc3052756a8bc94\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b2e90bfed7e28efc648afa489d7b9637\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b2e90bfed7e28efc648afa489d7b9637\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8149e9cf53309239437e7a219875057a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\8149e9cf53309239437e7a219875057a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\66a6e551226eed823d478c14ee914d15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\66a6e551226eed823d478c14ee914d15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\dfbf4fcbd598eb512b666abec975c1c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\dfbf4fcbd598eb512b666abec975c1c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\dd00e2c5d85fd95ed95175d698ad00fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\dd00e2c5d85fd95ed95175d698ad00fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\84ae5744e269d5360283802f5fed0437\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\84ae5744e269d5360283802f5fed0437\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\78dd6616b718f230d4e0dd1209c71520\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\78dd6616b718f230d4e0dd1209c71520\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e213c35cea40954288b2f2ac0883cb90\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e213c35cea40954288b2f2ac0883cb90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5035eaa9ae088e0db1f34b8ecd3eb6b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5035eaa9ae088e0db1f34b8ecd3eb6b3\AndroidManifest.xml:20:5-44
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\Android-Developer-Fundamentals-Version-2-master\Android-Developer-Fundamentals-Version-2-master\7.1_AsyncTask\SimpleAsyncTaskHW\app\src\main\AndroidManifest.xml
